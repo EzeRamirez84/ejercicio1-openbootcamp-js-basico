@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "Ejercicio 1",
+  "main": "index.js",
+  "scripts": {
+    "saludar":"node saludo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ejercicio",
+    "primer"
+  ],
+  "author": "Ezequiel Ramirez",
+  "license": "ISC"
+}
